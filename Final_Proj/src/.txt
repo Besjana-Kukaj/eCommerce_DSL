@@ -1,0 +1,7 @@
+createProduct: Smartphone, 499.99, 50
+createCustomer: Alice, alice@example.com, 123 Oak St
+createOrder: 1001, Alice, Smartphone, 2
+applyDiscount: SUMMER20, 20
+processPayment: 799.98
+shipOrder: 1001, Express
+completeOrder: 1001
